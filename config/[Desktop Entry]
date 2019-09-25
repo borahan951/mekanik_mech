@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=mekanik_mech
+Comment=mekanik_mech 🕵️ best tool for Information Gathering 🔎 
+Encoding=UTF-8
+Exec=sh -c "mekanik_mech;${SHELL:-bash}"
+Icon=mekanik_mech.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=01-info-gathering;
+X-Kali-Package=mekanik_mech
+Name[C]=mekanik_mech
